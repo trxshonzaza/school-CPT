@@ -1,0 +1,14 @@
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\bin\Debug\net8.0\ConsoleServer.exe
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\bin\Debug\net8.0\ConsoleServer.deps.json
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\bin\Debug\net8.0\ConsoleServer.runtimeconfig.json
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\bin\Debug\net8.0\ConsoleServer.dll
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\bin\Debug\net8.0\ConsoleServer.pdb
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\obj\Debug\net8.0\ConsoleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\obj\Debug\net8.0\ConsoleServer.AssemblyInfoInputs.cache
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\obj\Debug\net8.0\ConsoleServer.AssemblyInfo.cs
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\obj\Debug\net8.0\ConsoleServer.csproj.CoreCompileInputs.cache
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\obj\Debug\net8.0\ConsoleServer.dll
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\obj\Debug\net8.0\refint\ConsoleServer.dll
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\obj\Debug\net8.0\ConsoleServer.pdb
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\obj\Debug\net8.0\ConsoleServer.genruntimeconfig.cache
+C:\Users\OsaretinLaptop\source\repos\ConsoleServer\ConsoleServer\obj\Debug\net8.0\ref\ConsoleServer.dll
